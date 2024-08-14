@@ -1,0 +1,189 @@
+Program 1
+
+a = 5
+b = 10
+result = a & b | a ^ b
+print(result)
+
+Answer:
+
+Program 2
+
+x = 10
+y = 5
+z = 3.5
+result = x // y / z
+print(result)
+
+Answer:
+
+Program 3
+
+a = 'hello'
+b = 5
+c = a * b
+print(c)
+
+Answer:
+
+Program 4
+
+a = 8
+b = 3
+c = a / b * 2
+result = a % b ** c
+print(result)
+
+Answer:
+
+Program 5
+
+x = '5'
+y = 3.14
+result = int(x) + y
+print(result)
+
+Answer:
+
+Program 6
+
+a = 5
+b = 3
+result = a << 2 + b >> 1
+print(result)
+
+Answer:
+
+Program 7
+
+x = 10
+y = 5
+z = 3.5
+result = x / y * z + 1
+print(result)
+
+Answer:
+
+Program 8
+
+a = 5
+b = 3.14
+c = 'hello'
+result = a + b + c
+print(result)
+
+Answer:
+
+Description of Error: 
+
+Program 9
+
+a = 7
+b = 2
+c = 5
+result = a ^ b & c | a
+print(result)
+
+Answer:
+
+Program 10
+
+x = 0b1010
+y = 0b110
+result = x | y & x ^ y
+print(bin(result))
+
+Answer:
+
+Program 11
+
+a = 15
+b = 5
+result = ~a & b | a
+print(result)
+
+Answer:
+
+Program 12
+
+x = 8
+y = 3
+result = x  y // y % x
+print(result)
+
+Answer:
+
+Program 13
+
+a = 5
+b = 'hello'
+c = 2.5
+result = str(a) + b + str(c)
+print(result)
+
+Answer:
+
+Program 14
+
+x = 10
+y = 5
+result = x // y * 2 / 0
+print(result)
+
+Answer:
+
+Program 15
+
+a = 3
+b = 4
+c = a  b % b // a
+print(c)
+
+Answer:
+
+Program 16
+
+x = '123'
+y = 456
+result = int(x) + y
+print(result)
+
+Answer:
+
+Program 17
+
+a = 5.5
+b = 3
+c = a * b
+result = int(c) / b
+print(result)
+
+Answer:
+
+Program 18
+
+a = 10
+b = 5
+result = (a >> 2) << b
+print(result)
+
+Answer:
+
+Program 19
+
+x = 0b10101
+y = 0b110
+result = x ^ y | x & y
+print(bin(result))
+
+Answer:
+
+Program 20
+
+a = 5
+b = 0b1010
+c = 0x1F
+result = a + b + c
+print(result)
+
+Answer:
